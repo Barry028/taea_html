@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="ic-tickets" transform="translate(-542 -918)">
+    <rect id="矩形_205" data-name="矩形 205" width="56" height="56" transform="translate(542 918)" fill="#93f6f6" opacity="0"/>
+    <g id="_24_transport_ticket" data-name="24_transport_ticket" transform="translate(549.875 918)">
+      <g id="Group_93384" data-name="Group 93384">
+        <g id="Group_93383" data-name="Group 93383">
+          <path id="Path_107718" data-name="Path 107718" d="M1085.25,7765.25h-1.75v-8.75a1.75,1.75,0,0,0-1.75-1.75h-8.8a7.875,7.875,0,0,1-15.652,0h-8.8a1.75,1.75,0,0,0-1.75,1.75v8.75H1045v-8.75a3.5,3.5,0,0,1,3.5-3.5H1059v.875a6.125,6.125,0,0,0,12.25,0V7753h10.5a3.5,3.5,0,0,1,3.5,3.5Z" transform="translate(-1045 -7753)" fill="#93f6f6"/>
+          <path id="Path_107719" data-name="Path 107719" d="M1081.75,7811h-10.5v-.875a6.125,6.125,0,0,0-12.25,0V7811h-10.5a3.5,3.5,0,0,1-3.5-3.5V7769h1.75v38.5a1.75,1.75,0,0,0,1.75,1.75h8.8a7.875,7.875,0,0,1,15.652,0h8.8a1.75,1.75,0,0,0,1.75-1.75V7769h1.75v38.5A3.5,3.5,0,0,1,1081.75,7811Z" transform="translate(-1045 -7755.001)" fill="#93f6f6"/>
+          <rect id="Rectangle_26388" data-name="Rectangle 26388" width="1.75" height="1.75" transform="translate(29.75 12.323)" fill="#93f6f6"/>
+          <rect id="Rectangle_26389" data-name="Rectangle 26389" width="1.75" height="1.75" transform="translate(33.25 12.323)" fill="#93f6f6"/>
+          <rect id="Rectangle_26390" data-name="Rectangle 26390" width="1.75" height="1.75" transform="translate(36.75 12.323)" fill="#93f6f6"/>
+          <rect id="Rectangle_26391" data-name="Rectangle 26391" width="1.75" height="1.75" transform="translate(26.25 12.323)" fill="#93f6f6"/>
+          <rect id="Rectangle_26392" data-name="Rectangle 26392" width="1.75" height="1.75" transform="translate(22.75 12.323)" fill="#93f6f6"/>
+          <rect id="Rectangle_26393" data-name="Rectangle 26393" width="1.75" height="1.75" transform="translate(19.25 12.323)" fill="#93f6f6"/>
+          <rect id="Rectangle_26394" data-name="Rectangle 26394" width="1.75" height="1.75" transform="translate(15.75 12.323)" fill="#93f6f6"/>
+          <rect id="Rectangle_26395" data-name="Rectangle 26395" width="1.75" height="1.75" transform="translate(12.25 12.323)" fill="#93f6f6"/>
+          <rect id="Rectangle_26396" data-name="Rectangle 26396" width="1.75" height="1.75" transform="translate(8.75 12.323)" fill="#93f6f6"/>
+          <rect id="Rectangle_26397" data-name="Rectangle 26397" width="1.75" height="1.75" transform="translate(5.25 12.323)" fill="#93f6f6"/>
+          <rect id="Rectangle_26398" data-name="Rectangle 26398" width="1.75" height="1.75" transform="translate(1.75 12.323)" fill="#93f6f6"/>
+          <path id="Path_107720" data-name="Path 107720" d="M1069.75,7787H1068v-7.875a.875.875,0,0,1,.875-.875h1.388l-3.138-3.138-3.138,3.138h1.388a.875.875,0,0,1,.875.875V7787h-1.75v-7h-2.625a.875.875,0,0,1-.619-1.494l5.25-5.25a.876.876,0,0,1,1.237,0l5.25,5.25a.875.875,0,0,1-.619,1.494h-2.625Z" transform="translate(-1047 -7755.5)" fill="#93f6f6"/>
+          <rect id="Rectangle_26399" data-name="Rectangle 26399" width="28" height="1.75" transform="translate(6.125 35.073)" fill="#93f6f6"/>
+          <rect id="Rectangle_26400" data-name="Rectangle 26400" width="28" height="1.75" transform="translate(6.125 38.573)" fill="#93f6f6"/>
+          <rect id="Rectangle_26401" data-name="Rectangle 26401" width="28" height="1.75" transform="translate(6.125 42.073)" fill="#93f6f6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51" height="51" viewBox="0 0 51 51">
+  <defs>
+    <filter id="矩形_106940" x="0" y="0" width="51" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="arrow-bt" transform="translate(334.5 -285.5)">
+    <g transform="matrix(1, 0, 0, 1, -334.5, 285.5)" filter="url(#矩形_106940)">
+      <rect id="矩形_106940-2" data-name="矩形 106940" width="48" height="48" transform="translate(0.5 0.5)" opacity="0"/>
+    </g>
+    <path id="chevron-down-1-24px" d="M5.586,8.586a2,2,0,0,0,0,2.828l12,12a2,2,0,0,0,2.828,0l12-12a2,2,0,0,0-2.828-2.828L19,19.172,8.414,8.586A2,2,0,0,0,5.586,8.586Z" transform="translate(-329 294)" fill-rule="evenodd"/>
+  </g>
+</svg>
